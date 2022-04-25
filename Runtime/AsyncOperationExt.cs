@@ -1,3 +1,4 @@
+using System;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -15,6 +16,12 @@ namespace Dev.ComradeVanti.AsyncOpToTask
 
             return completionSource.Task;
         }
+
+        public static Task<T> ToTask<T>(this AsyncOperation op, Func<T> makeValue) =>
+            op.ToTask(makeValue());
+
+        public static Task<T> ToTask<T>(this AsyncOperation op, T value) =>
+            op.ToTask(() => value);
 
     }
 
