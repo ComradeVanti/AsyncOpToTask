@@ -7,7 +7,7 @@ namespace Dev.ComradeVanti.AsyncOpToTask
     public static class AsyncOperationExt
     {
 
-        public static Task ToTask(AsyncOperation op)
+        public static Task ToTask(this AsyncOperation op)
         {
             var completionSource = new TaskCompletionSource<bool>();
 
