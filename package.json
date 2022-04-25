@@ -1,0 +1,19 @@
+{
+  "name": "dev.comradevanti.async-op-to-task",
+  "version": "1.0.0",
+  "description": "A unity package for converting async-op objects to tasks",
+  "displayName": "AsyncOp to Task",
+  "unity": "2020.3",
+  "author": {
+    "name": "ComradeVanti",
+    "email": "kingvanti650@gmail.com"
+  },
+  "keywords": [
+    "async",
+    "task",
+    "operation",
+    "conversion",
+    "utility"
+  ],
+  "license": "Unlicense"
+}
