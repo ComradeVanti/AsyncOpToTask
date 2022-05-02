@@ -1,6 +1,6 @@
-﻿# AsyncOp.ToTask
+﻿# ToTask.AsyncOperation
 
-[![openupm](https://img.shields.io/npm/v/dev.comradevanti.asyncop-totask?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/dev.comradevanti.asyncop-totask/)
+[![openupm](https://img.shields.io/npm/v/dev.comradevanti.totask.asyncoperation?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/dev.comradevanti.totask.asyncoperation/)
 
 Unity package for converting builtin `AsyncOperation` objects to .Net Tasks.
 
@@ -8,7 +8,7 @@ Unity package for converting builtin `AsyncOperation` objects to .Net Tasks.
 
 
 Install via [OpenUPM](https://openupm.com) using 
-`openupm add dev.comradevanti.asyncop-totask`
+`openupm add dev.comradevanti.totask.asyncoperation`
 
 ## Usage
 

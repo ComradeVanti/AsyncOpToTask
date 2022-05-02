@@ -1,8 +1,8 @@
 {
-  "name": "dev.comradevanti.asyncop-totask",
-  "version": "1.0.1",
+  "name": "dev.comradevanti.totask.asyncoperation",
+  "version": "2.0.0",
   "description": "A unity package for converting AsyncOperation objects to tasks",
-  "displayName": "AsyncOp.ToTask",
+  "displayName": "ToTask.AsyncOperation",
   "unity": "2020.3",
   "author": {
     "name": "ComradeVanti",

@@ -2,7 +2,7 @@ using System;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace Dev.ComradeVanti.AsyncOpToTask
+namespace Dev.ComradeVanti.ToTask
 {
 
     public static class AsyncOperationExt

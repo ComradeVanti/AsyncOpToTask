@@ -1,6 +1,6 @@
 {
-    "name": "Dev.ComradeVanti.AsyncOpToTask",
-    "rootNamespace": "Dev.ComradeVanti.AsyncOpToTask",
+    "name": "Dev.ComradeVanti.ToTask.AsyncOperation",
+    "rootNamespace": "Dev.ComradeVanti.ToTask",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
