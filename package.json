@@ -1,6 +1,6 @@
 {
   "name": "dev.comradevanti.totask.asyncoperation",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A unity package for converting AsyncOperation objects to tasks",
   "displayName": "ToTask.AsyncOperation",
   "unity": "2020.3",
