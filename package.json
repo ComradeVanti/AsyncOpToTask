@@ -1,8 +1,8 @@
 {
-  "name": "dev.comradevanti.async-op-to-task",
-  "version": "1.0.0",
-  "description": "A unity package for converting async-op objects to tasks",
-  "displayName": "AsyncOp to Task",
+  "name": "dev.comradevanti.asyncop-totask",
+  "version": "1.0.1",
+  "description": "A unity package for converting AsyncOperation objects to tasks",
+  "displayName": "AsyncOp.ToTask",
   "unity": "2020.3",
   "author": {
     "name": "ComradeVanti",
